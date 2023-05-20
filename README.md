@@ -6,7 +6,7 @@
 
 Esse é um projeto Web responsivo é uma cápsula do tempo para exibir memórias em uma linha do tempo
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 - CSS
 - Git & Github
 
-# 👁‍🗨 Layout
+## 👁‍🗨 Layout
 
 Você pode visualizar o layout do projeto através [Desse Link](https://www.figma.com/file/ySoxkzS55CWuMJa2PZktNc/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-NLW-SpaceTime?type=design&node-id=306%3A84&t=SrO3knNgxK9NMiAb-1).
 
